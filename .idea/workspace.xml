@@ -323,21 +323,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c881d91f-c1df-4dfc-ace4-54ea8c3fc50b" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/include/inc_decomp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/include/inc_decomp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/include/wrapper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/include/wrapper.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/package.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/src/evaluation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/src/evaluation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/src/inc_dude.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incremental_DuDe_ROS/src/inc_dude.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/.rosinstall" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/launch/gmapping.launch" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/launch/gmapping.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/launch/yolo.launch" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/launch/yolo.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/param/dwa_local_planner_params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/param/dwa_local_planner_params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/src/nbv_exploration.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/autonomous_exploration/src/nbv_exploration.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/obstacle_detector/include/obstacle_detector/obstacle_extractor.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/obstacle_detector/include/obstacle_detector/obstacle_extractor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autonomous_exploration/src/obstacle_detector/src/obstacle_extractor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/autonomous_exploration/src/obstacle_detector/src/obstacle_extractor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/darknet_ros/darknet_ros/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/darknet_ros/darknet_ros/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,8 +336,16 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/autonomous_exploration" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7f5f0f01-8cf7-42e7-a379-a391002cad00" />
+        <option name="url" value="git@github.com:Jh142857/2022_ral_autonomous_exploration.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -2245,7 +2240,7 @@
       <workItem from="1677550263207" duration="59704000" />
       <workItem from="1677828204956" duration="12369000" />
       <workItem from="1677992942946" duration="6889000" />
-      <workItem from="1678003626648" duration="99000" />
+      <workItem from="1678003626648" duration="986000" />
     </task>
     <servers />
   </component>
@@ -2262,6 +2257,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
