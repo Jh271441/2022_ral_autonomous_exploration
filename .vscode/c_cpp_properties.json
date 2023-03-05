@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/darknet_ros/darknet_ros/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/Incremental_DuDe_ROS/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/autonomous_exploration/src/obstacle_detector/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/autonomous_exploration/src/octomap_rviz_plugins/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/autonomous_exploration/src/plane_detector/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/autonomous_exploration/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/src/autonomous_exploration/src/urg_node/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

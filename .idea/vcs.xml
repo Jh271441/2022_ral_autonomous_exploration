@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/Incremental_DuDe_ROS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/autonomous_exploration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/autonomous_exploration/darknet_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/autonomous_exploration/realsense" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/darknet_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/darknet_ros/darknet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/realsense" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/turtlebot3_simulations" vcs="Git" />
+  </component>
+</project>

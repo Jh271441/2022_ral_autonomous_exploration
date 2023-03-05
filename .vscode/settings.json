@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/cjh/Explore_plan/2022-ral-autonomous_exploration/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
